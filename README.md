@@ -1,6 +1,6 @@
-# Make a travel website( daily care agency )
+# Make a travel website( TourPlane )
 
-This project was bootstrapped with  https://delivery-17376.web.app
+This project was bootstrapped with  
 
 ## Available Scripts
 
@@ -13,4 +13,4 @@ This project was bootstrapped with  https://delivery-17376.web.app
 7.  Then create my orders and cancel order.
 8.  finally create the admin panel and related services.
 
-# clientside11
+# clientside
